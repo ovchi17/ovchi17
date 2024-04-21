@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="badges" align="center">
   <a href="https://t.me/g171g">
     <img src="https://img.shields.io/badge/Telegram-purple?logo=telegram&logoColor=black" alt="Telegramm Badge"/>
